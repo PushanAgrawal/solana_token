@@ -6,10 +6,10 @@ const Metadata: NextPage = (props) => {
   return (
     <div>
       <Head>
-        <title>Solana Scaffold</title>
+        <title>CarbonX Scaffold</title>
         <meta
           name="description"
-          content="Solana Scaffold"
+          content="CarbonX Scaffold"
         />
       </Head>
       <MetadataView />
